@@ -11,3 +11,9 @@ Mi primer repositorio utilizando Git y GitHub.
 - Aprender control de versiones.
 - Practicar comandos Git.
 - Crear proyectos y publicarlos en GitHub.
+
+## Tecnologías utilizadas
+
+- Git
+- GitHub
+- Visual Studio Code
