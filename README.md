@@ -17,3 +17,7 @@ Mi primer repositorio utilizando Git y GitHub.
 - Git
 - GitHub
 - Visual Studio Code
+
+## Aprendizaje
+
+Estoy aprendiendo a trabajar con Git y GitHub.
