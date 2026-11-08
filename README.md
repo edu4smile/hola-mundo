@@ -24,4 +24,6 @@ Estoy aprendiendo a trabajar con Git y GitHub.
 
 ## Estado del proyecto
 
+Versión desarrollada por el equipo A.
+
 Versión desarrollada por el equipo B.
