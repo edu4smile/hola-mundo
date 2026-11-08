@@ -21,3 +21,7 @@ Mi primer repositorio utilizando Git y GitHub.
 ## Aprendizaje
 
 Estoy aprendiendo a trabajar con Git y GitHub.
+
+## Estado del proyecto
+
+Versión desarrollada por el equipo B.
